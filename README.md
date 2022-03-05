@@ -1,6 +1,5 @@
 # streamlit_survey_Python
-![캡처](https://user-images.githubusercontent.com/79910104/156864201-a9de0a72-f974-4bd6-a97b-7c44f533f857.PNG)
-![캡처1](https://user-images.githubusercontent.com/79910104/156864205-95329e4d-1735-4618-aae8-7527e4119d57.PNG)
+![캡처](https://user-images.githubusercontent.com/79910104/156864201-a9de0a72-f974-4bd6-a97b-7c44f533f857.PNG) ![캡처1](https://user-images.githubusercontent.com/79910104/156864205-95329e4d-1735-4618-aae8-7527e4119d57.PNG)
 
 
 -How to run
