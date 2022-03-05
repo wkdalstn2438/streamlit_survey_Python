@@ -12,3 +12,7 @@ input: streamlit run yourapp.py
 
 streamlit run (main.py부분의 이름 입력).py 
 
+
+
+main.py: makeing host survey
+
