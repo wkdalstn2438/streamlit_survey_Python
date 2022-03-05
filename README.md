@@ -16,3 +16,4 @@ streamlit run (main.py부분의 이름 입력).py
 
 main.py: makeing host survey
 
+file_read.py: if you click sub maked your answer file
